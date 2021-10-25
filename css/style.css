@@ -426,7 +426,6 @@ color: var(--primary-text-color);
 }
 .clients-items{
     display: flex;
-    justify-content: center;
 }
 
 .clients-item:not(:last-child){
